@@ -40,10 +40,9 @@ highlighter-theme: monokai
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 category_dir: category/
 tag_dir: tag/
-plugins: 
-  - 'jekyll-sitemap'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
