@@ -43,7 +43,7 @@ plugins:
   - jekyll-sitemap
 category_dir: category/
 tag_dir: tag/
-
+google_analytics: G-Q9HF85YN7Q
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
